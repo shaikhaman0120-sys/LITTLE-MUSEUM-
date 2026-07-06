@@ -1,3 +1,1 @@
-function enterStory(){
-    window.location.href="pages/memories.html";
-}
+console.log("Little Museum Loaded ❤️");
